@@ -54,11 +54,11 @@ Data was explored and cleaned in Python, including data quality checks, feature 
 │   ├── monthly_sales.csv             # Monthly sales rollup
 │   └── reorder_comparison_full.csv   # Full reorder point comparison
 ├── powerbi/
-│   └── retail_dashboard.pbix         # Full interactive Power BI file
-├── reports/
-│   ├── Retail_Dashboard.pdf          # Static PDF export of all 3 pages
-│   ├── Retail_Insight_Report.pdf     # Full written findings and recommendations
-│   └── Retail_BRD.docx               # Business Requirements Document — Automated Reorder Alert System
+│   └── Retail_Inventory_dashboard.pbix   # Full interactive Power BI file
+├── Reports/
+│   ├── Dashboard.pdf                     # Static PDF export of all 3 pages
+│   ├── Retail_Insight_Report.pdf         # Full written findings and recommendations
+│   └── Retail_BRD.docx                   # Business Requirements Document — Automated Reorder Alert System
 ├── images/
 │   └── (dashboard page screenshots)
 └── README.md
